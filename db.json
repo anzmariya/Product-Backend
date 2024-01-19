@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "pid": "PE7525",
+      "name": "Galaxy S23",
+      "category": "Mobile",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/africa_en/sm-a057flvdafc/gallery/africa-en-galaxy-a05s-sm-a057-sm-a057flvdafc-thumb-539132757?$344_344_PNG$",
+      "price": "79,999",
+      "decription": "",
+      "description": "Slip into something a little more special. Fresh new colors inspired by nature are turned into natural dyes and infused into the polished metal frame.",
+      "id": 1
+    },
+    {
+      "pid": "YH436",
+      "name": "Nothing Phone(2)",
+      "category": "Mobile",
+      "image": "https://media.croma.com/image/upload/v1696417949/Croma%20Assets/Communication/Mobiles/Images/301883_sqmazk.png",
+      "price": "42,409",
+      "decription": "",
+      "description": "Nothing Phone (2) 5G (Dark Grey, 12GB RAM, 256GB Storage) | 6.7\" LTPO OLED AMOLED Display | 50 MP(OIS)+50 MP | 32 MP Front Camera | Qualcomm Snapdragon 8+Gen 1 | 4700mAh Battery 45W:100% in 55 Minutes",
+      "id": 2
+    },
+    {
+      "pid": "HP783",
+      "name": "HP Lap",
+      "category": "Computer",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_1_9.png",
+      "price": "70,199",
+      "decription": "",
+      "description": "The HP Victus Laptop is made for peak PC gaming with powerful processors and graphics.",
+      "id": 3
+    },
+    {
+      "pid": "SE767",
+      "name": "Coolnut Power Bank",
+      "category": "Power Bank",
+      "image": "https://m.media-amazon.com/images/I/412AnA0Q3AL._SX679_.jpg",
+      "price": "24,999",
+      "decription": "",
+      "description": "This is massive and huge 60000mAh capacity provides ample power to charge your devices multiple times on a single charge. Great for Travel and Outdoors. Also can take away for Camping, Outdoor, Picnic, Shooting etc.",
+      "id": 4
+    }
+  ]
+}
